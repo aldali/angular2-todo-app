@@ -5,7 +5,6 @@ import { Todo } from '../todo';
 
 
 @Component({
-  moduleId: module.id,
   selector: 'app-todo-app',
   templateUrl: 'todo-app.component.html',
   styleUrls: ['todo-app.component.css'],
